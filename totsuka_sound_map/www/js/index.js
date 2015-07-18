@@ -58,7 +58,7 @@ var app = {
                      "type": "Feature",
                      "properties":{
                         "title":"八坂神社",
-                        "desc":"７月１４日は八坂神社のお札まき！",
+                        "desc":"７月１４日は八坂神社のお札まきでした。町内を踊り歌いお札を撒きながら練り歩いた後、境内でもお札を撒きます！",
                         "image":"img/ofudamaki.jpg",
                         "audio":"audio/ofudamaki.MP3"},
                      "geometry": {
